@@ -1,0 +1,53 @@
+deck 1
+up J 11
+deck 3
+up J 11
+up Q 12
+up K 13
+deck 0
+deck 5
+up A 1
+up 2 2
+up 3 3
+up 4 4
+up 5 5
+deck 1
+up 5 5
+deck 1
+up T 10
+deck 2
+up 2 2
+up 3 3
+deck 3
+up 7 7
+up 8 8
+up 9 9
+deck 1
+up Q 12
+deck 1
+up 7 7
+deck 1
+up K 13
+deck 1
+up J 11
+deck 0
+drawpile 19
+up 4 4
+up 6 6
+up K 13
+up 4 4
+up T 10
+up 8 8
+up 7 7
+up 5 5
+up 6 6
+up A 1
+up 8 8
+up 3 3
+up 2 2
+up Q 12
+up T 10
+up 6 6
+up 9 9
+up A 1
+up 9 9
